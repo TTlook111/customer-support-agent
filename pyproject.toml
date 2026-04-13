@@ -1,7 +1,7 @@
 [project]
 name = "customer-support-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "基于 LangChain/LangGraph 实现的客户支持状态机工作流 Agent 示例"
 requires-python = ">=3.13"
 dependencies = [
     "dashscope>=1.25.16",
